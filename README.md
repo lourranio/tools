@@ -19,9 +19,8 @@ A Beautifully Productive Terminal Experience
 How getting familiar with the command line can drastically improve your workflow.
 <div>
   <span align="center">
-  <img alt="logo-ls" title="logo-ls" src="https://d1dtl6c2x4cczo.cloudfront.net/assets/images/posts/a-beautiful-productive-terminal-experience/cover.png
-">
-    </span>
+    <img alt="logo-ls" title="logo-ls" src="https://d1dtl6c2x4cczo.cloudfront.net/assets/images/posts/a-beautiful-productive-terminal-experience/cover.png">
+   </span>
 </div><br>
 Posted on February 2, 2014 by Mike Buss
 
