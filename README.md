@@ -36,6 +36,6 @@ Posted on February 2, 2014 by Mike Buss
 4. https://artifacthub.io/
 <div>
   <span align="center">
-  <img alt="logo-ls" title="logo-ls" src="https://storage.googleapis.com/hcode.com.br/blog/posts/112/cover_copy.jpg">
+  <img alt="logo-ls" title="logo-ls" src="https://github.com/lourranio/tools/blob/75163aad231cf017f8279ae07d0f6e10b3e173ef/img/display.png">
     </span>
 </div><br>
