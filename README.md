@@ -24,3 +24,11 @@ How getting familiar with the command line can drastically improve your workflow
 </div><br>
 Posted on February 2, 2014 by Mike Buss
 
+
+3. https://docs.chocolatey.org/en-us/choco/setup
+  
+  <div>
+  <span align="center">
+  <img alt="logo-ls" title="logo-ls" src="https://storage.googleapis.com/hcode.com.br/blog/posts/112/cover_copy.jpg">
+    </span>
+</div><br>
