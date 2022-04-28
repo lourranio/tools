@@ -50,7 +50,8 @@ Posted on February 2, 2014 by Mike Buss
 6. https://nirmata.com
 <div>
   <span align="center">
-  <img alt="logo-ls" title="logo-ls" src="https://github.com/lourranio/tools/blob/6b162ba182fa59f73db38d4d4e5a30e830824ac5/img/scaleway.PNG">
+  <img alt="logo-ls" title="logo-ls" src="https://github.com/lourranio/tools/blob/a8e3a6111bc64af53952e834cb4ead54cd7d3acc/img/nirmata.png">
     </span>
 </div><br>
-8. 
+
+
