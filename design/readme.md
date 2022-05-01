@@ -24,12 +24,12 @@
  
  ## Perfis de Instagram de Design
  
- 1. https://www.instagram.com/uxunicornio/
+        1. https://www.instagram.com/uxunicornio/
  
  
  ## Canais do Youtube de Design
  
- 1. https://www.youtube.com/uxunicornio
+        1. https://www.youtube.com/uxunicornio
 
 
  
