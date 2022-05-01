@@ -28,54 +28,54 @@
  ## Canais do Youtube de Design
  1. https://www.youtube.com/uxunicornio
  
- -> Tela de aplicativos famosos para referências
+## Tela de aplicativos famosos para referências
 
-https://mobbin.design/
-
-
--> Psicologia das cores e cores por cultura
-
-https://www.informationisbeautiful.net/visualizations/colours-in-cultures/
+    https://mobbin.design/
 
 
--> Biblioteca para tudo
+## Psicologia das cores e cores por cultura
 
-http://evernote.design/
-
-
--> Paleta de cores com Inteligência Artificial
-
-http://khroma.co/
+    https://www.informationisbeautiful.net/visualizations/colours-in-cultures/
 
 
--> Referências e templates para web e sistemas
+## Biblioteca para tudo
 
-https://themeforest.net/
-
-
--> Tipografia
-
-https://fonts.google.com/
-
-https://fontpair.co
-
-https://www.gridlover.net/
-
-https://www.modularscale.com/
+    http://evernote.design/
 
 
--> Imagens Gratuitas
+## Paleta de cores com Inteligência Artificial
 
-https://www.freepik.com/
-
-
--> Sombras
-
-https://material.io/design/environment/elevation.html#elevation-in-material-design
+    http://khroma.co/
 
 
--> Mockups
+## Referências e templates para web e sistemas
 
-https://smartmockups.com/
+    https://themeforest.net/
 
-https://www.ls.graphics/free-mockups/clay-mockup
+
+## Tipografia
+
+    https://fonts.google.com/
+
+    https://fontpair.co
+
+    https://www.gridlover.net/
+
+    https://www.modularscale.com/
+
+
+##  Imagens Gratuitas
+
+    https://www.freepik.com/
+
+
+## Sombras
+
+    https://material.io/design/environment/elevation.html#elevation-in-material-design
+
+
+## Mockups
+
+    https://smartmockups.com/
+
+    https://www.ls.graphics/free-mockups/clay-mockup
