@@ -54,4 +54,10 @@ Posted on February 2, 2014 by Mike Buss
     </span>
 </div><br>
 
+7. https://snyk.io/plans/
+<div>
+  <span align="center">
+  <img alt="logo-ls" title="logo-ls" src="https://github.com/lourranio/tools/blob/c811d5f8003765058f9e19b42bea4c7a5eb2016f/img/snyk.png">
+    </span>
+</div><br>
 
