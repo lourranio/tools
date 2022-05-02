@@ -7,6 +7,8 @@
   <img alt="logo-ls" title="logo-ls" src="https://github.com/lourranio/tools/blob/19ff2a4ffcc1b00b70d6dc8420f9366535c39c78/controlador-de-dominio/img/Zentyal-1024x576.jpg">
     </span>
 </div><br>
+    
+    https://www.tecmint.com/install-zentyal-as-primary-domain-controller-and-integrate-windows-system/
 
 
 2. https://www.clearos.com/clearfoundation/software/clearos-7-community#screenshots
