@@ -61,3 +61,10 @@ Posted on February 2, 2014 by Mike Buss
     </span>
 </div><br>
 
+8. https://randomuser.me/api
+<div>
+  <span align="center">
+  <img alt="logo-ls" title="logo-ls" src="https://miro.medium.com/max/1400/1*EEn-tB8M38krdKQuuTR-9Q.png">
+    </span>
+</div><br>
+
