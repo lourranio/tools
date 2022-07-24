@@ -71,6 +71,6 @@ Posted on February 2, 2014 by Mike Buss
 9. https://www.vultr.com/
 <div>
   <span align="center">
-  <img alt="logo-ls" title="logo-ls" src="https://miro.medium.com/max/1400/1*EEn-tB8M38krdKQuuTR-9Q.png">
+  <img alt="logo-ls" title="logo-ls" src="https://github.com/lourranio/tools/blob/40662d866d4f9b97702a413206594f593eb263b3/img/vultr.png">
     </span>
 </div><br>
