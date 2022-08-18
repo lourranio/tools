@@ -99,7 +99,7 @@ script : https://conemu.github.io/
 https://hyper.is
 <div>
   <span align="center">
-  <img alt="logo-ls" title="logo-ls" src="https://conemu.github.io/img/ConEmu-Maximus5.png">
+  <img alt="logo-ls" title="logo-ls" src="https://hyper.is/_next/image?url=%2Fstore%2Fverminal.png&w=1920&q=75">
     </span>
 </div><br>
 
