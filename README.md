@@ -29,7 +29,7 @@ Posted on February 2, 2014 by Mike Buss
   
   <div>
   <span align="center">
-  <img alt="logo-ls" title="logo-ls" src="https://storage.googleapis.com/hcode.com.br/blog/posts/112/cover_copy.jpg">
+  <img alt="logo-ls" title="logo-ls" src="https://hyper.is/hyperpower.mp4">
     </span>
 </div><br>
 
