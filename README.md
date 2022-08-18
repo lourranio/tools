@@ -93,3 +93,15 @@ script : https://github.com/pmb6tz/windows-desktop-switcher
 </div><br>
 
 script : https://conemu.github.io/
+
+12. Hyper Term : Se você estiver interessado em um terminal ainda mais bonito com um layout mais amigável e inclusive utilizar isso no Windows, recomendo usar o Hyper Term.
+
+https://hyper.is
+<div>
+  <span align="center">
+  <img alt="logo-ls" title="logo-ls" src="https://conemu.github.io/img/ConEmu-Maximus5.png">
+    </span>
+</div><br>
+
+script : https://hyper.is
+
