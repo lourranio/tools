@@ -29,7 +29,7 @@ Posted on February 2, 2014 by Mike Buss
   
   <div>
   <span align="center">
-  <img alt="logo-ls" title="logo-ls" src="https://hyper.is/hyperpower.mp4">
+  <img alt="logo-ls" title="logo-ls" src="https://chocolatey.org/assets/images/global-shared/logo-square.svg">
     </span>
 </div><br>
 
