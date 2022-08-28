@@ -102,3 +102,25 @@ When you push it'll run the Standard JS checker http://standardjs.com/. If you r
 
 [![Standard - JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
+
+
+
+## INSTALL NPM CENTOS 7
+
+To install Node.js and npm from the NodeSource repositories on your CentOS 7 system, follow these steps:
+
+1. Add NodeSource yum repository
+
+The current LTS version of Node.js is version 10.x. If you want to install version 8 just change setup_10.x with setup_8.x in the command below.
+
+Run the following curl command to add the NodeSource yum repository to your system:
+
+``` curl -sL https://rpm.nodesource.com/setup_16.x | sudo bash -  ```
+
+2. Install Node.js and npm
+
+Once the NodeSource repository is enabled, install Node.js and npm by typing:
+
+``` sudo yum install nodejs ```
+
+When prompted to import the repository GPG key, type y, and press Enter.
