@@ -105,3 +105,6 @@ https://hyper.is
 
 script : https://hyper.is
 
+13. kustomize
+
+https://kustomize.io/
