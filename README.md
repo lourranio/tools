@@ -108,3 +108,12 @@ script : https://hyper.is
 13. kustomize
 
 https://kustomize.io/
+
+14.osboxes
+
+https://www.osboxes.org/vmware-images/
+<div>
+  <span align="center">
+  <img alt="logo-ls" title="logo-ls" src="https://www.osboxes.org/wp-content/uploads/2020/05/slide-vb-ok.jpg">
+    </span>
+</div><br>
