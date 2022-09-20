@@ -123,6 +123,6 @@ https://www.osboxes.org/vmware-images/
 https://mobaxterm.mobatek.net/
 <div>
   <span align="center">
-  <img alt="logo-ls" title="logo-ls" src="https://mobaxterm.mobatek.net/img/slider/Cool-feature-syntax-highlighting.png">
+  <img alt="logo-ls" title="logo-ls" src="https://mobaxterm.mobatek.net/img/moba/features/feature-terminal.png">
     </span>
 </div><br>
