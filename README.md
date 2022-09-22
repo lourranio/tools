@@ -135,3 +135,15 @@ https://mremoteng.org/download
   <img alt="logo-ls" title="logo-ls" src="https://mremoteng.org/images/lightbox.png">
     </span>
 </div><br>
+
+Extra : https://pizzeriadonnaregina.com/pt/5-melhores-gerenciadores-de-conexao-de-area-de-trabalho-remota/
+
+15.Royal TS/X
+
+[https://mremoteng.org/download](https://royalapps.com/ts/win/download)
+
+<div>
+  <span align="center">
+  <img alt="logo-ls" title="logo-ls" src="https://activedirectorypro.com/wp-content/uploads/2018/04/royalTS.jpg">
+    </span>
+</div><br>
