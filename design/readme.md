@@ -84,3 +84,12 @@
     https://smartmockups.com/
 
     https://www.ls.graphics/free-mockups/clay-mockup
+    
+    
+## Sites
+
+        https://www.lapa.ninja/post/iconwerk-2/
+        
+        http://www.uipatterns.io/
+        
+        https://collectui.com/
