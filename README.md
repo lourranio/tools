@@ -147,3 +147,16 @@ Extra : https://pizzeriadonnaregina.com/pt/5-melhores-gerenciadores-de-conexao-d
   <img alt="logo-ls" title="logo-ls" src="https://activedirectorypro.com/wp-content/uploads/2018/04/royalTS.jpg">
     </span>
 </div><br>
+
+15.Teste de Carga no LoadBalance ou Aplicacao - https://loader.io/
+
+[https://mremoteng.org/download](https://royalapps.com/ts/win/download)
+
+<div>
+  <span align="center">
+  <img alt="logo-ls" title="logo-ls" src="https://loader.io/assets/marketing/gtaphs-illustration@2x-7e645bbfabc6b183cf1e59efb044c0e2741cfd03141f7cfda6356409e6292b69.png">
+    </span>
+</div><br>
+
+
+https://loader.io/
