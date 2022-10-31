@@ -160,3 +160,17 @@ Extra : https://pizzeriadonnaregina.com/pt/5-melhores-gerenciadores-de-conexao-d
 
 
 https://loader.io/
+
+
+16. Password Tech : Gerador de Senha para Windows
+
+[https://pwgen-win.sourceforge.io/download/)
+
+<div>
+  <span align="center">
+  <img alt="logo-ls" title="logo-ls" src="https://pwgen-win.sourceforge.io/assets/images/ss-main.png">
+    </span>
+</div><br>
+
+
+https://pwgen-win.sourceforge.io/screenshots/
