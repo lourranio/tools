@@ -174,3 +174,5 @@ https://loader.io/
 
 
 https://pwgen-win.sourceforge.io/screenshots/
+
+LINUX : https://github.com/stevenarnold/pwgen
