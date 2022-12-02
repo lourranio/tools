@@ -176,3 +176,10 @@ https://loader.io/
 https://pwgen-win.sourceforge.io/screenshots/
 
 LINUX : https://github.com/stevenarnold/pwgen
+
+
+17. Script - Trocar uma palavra pela a outra
+
+``` 
+sudo sed -i 's/8080/9090/g' apache-tomcat-8.5.53/conf/server.xml 
+```
