@@ -5,6 +5,6 @@
 
 <div>
   <span align="center">
-  <img alt="logo-ls" title="logo-ls" src="https://raw.githubusercontent.com/Yash-Handa/logo-ls/master/.github/images/ls.png">
+  <img alt="logo-ls" title="logo-ls" src="https://github.com/lourranio/tools/blob/6c957a573321735e90217283143f74edce312a7d/img/themarkup-blacklight.png">
     </span>
 </div><br>
