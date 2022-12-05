@@ -27,3 +27,12 @@
 ```Fingerprint the OS for a single IP nmap -O 192.168.1.1```
   
 ```Discover all IPs (hosts) in a subnet nmap -sP 192.168.1.1```
+
+
+## 3. talos intelligence
+
+  A) https://blog.talosintelligence.com/category/threat-source-newsletter/
+  
+  B) https://talosintelligence.com/vulnerability_reports
+  
+  C) https://talosintelligence.com/reputation_center/
