@@ -23,6 +23,5 @@ asdadsa
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://devtron.ai/images/twitter_image.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://devtron.ai/images/twitter_image.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://devtron.ai/images/twitter_image.png">
+
 </picture>
