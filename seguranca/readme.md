@@ -36,3 +36,52 @@
   B) https://talosintelligence.com/vulnerability_reports
   
   C) https://talosintelligence.com/reputation_center/
+
+
+## 4. SCAN : Lynis
+
+Lynis is an open-source security tool for Linux. As a security tool, Lynis performs elaborate scans by going through the details of your operating system, kernel parameters, installed packages and services, network configurations, cryptography, and other malware scans. It’s used widely for compliance and audit testing purposes.
+
+CentOS, RHEL, Rocky, and similar
+Already a customer of Lynis Enterprise? See packages for customers.
+Lynis Community
+
+https://packages.cisofy.com/community/#centos-rhel
+
+    Ensure that cURL, NSS, openssl, and CA certificates are up-to-date.
+
+    yum update ca-certificates curl nss openssl
+
+    Create /etc/yum.repos.d/cisofy-lynis.repo
+
+    [lynis]
+    name=CISOfy Software - Lynis package
+    baseurl=https://packages.cisofy.com/community/lynis/rpm/
+    enabled=1
+    gpgkey=https://packages.cisofy.com/keys/cisofy-software-rpms-public.key
+    gpgcheck=1
+    priority=2
+
+    Next step is installing Lynis with yum.
+
+    sudo yum makecache fast
+
+
+    sudo yum install lynis
+
+
+    First time it might ask to import the GPG key. This ensures you only updates are received from us.
+
+    Now you start using Lynis. First time users are advised to use the Get Started guide.
+
+    lynis audit system
+
+
+
+5.  chkrootkit
+
+ wget ftp://chkrootkit.org/pub/seg/pac/chkrootkit.tar.gz
+ tar -zxvf chkrootkit.tar.gz
+ cd chkrootkit-0.55/
+ ./chkrootkit
+ 
