@@ -81,7 +81,10 @@ https://packages.cisofy.com/community/#centos-rhel
 ## 5.  chkrootkit
 
  wget ftp://chkrootkit.org/pub/seg/pac/chkrootkit.tar.gz
+ 
  tar -zxvf chkrootkit.tar.gz
+ 
  cd chkrootkit-0.55/
+ 
  ./chkrootkit
  
