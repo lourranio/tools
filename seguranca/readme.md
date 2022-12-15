@@ -48,11 +48,11 @@ Lynis Community
 
 https://packages.cisofy.com/community/#centos-rhel
 
-    Ensure that cURL, NSS, openssl, and CA certificates are up-to-date.
+Ensure that cURL, NSS, openssl, and CA certificates are up-to-date.
 
     yum update ca-certificates curl nss openssl
 
-    Create /etc/yum.repos.d/cisofy-lynis.repo
+Create /etc/yum.repos.d/cisofy-lynis.repo
 
     [lynis]
     name=CISOfy Software - Lynis package
@@ -62,20 +62,21 @@ https://packages.cisofy.com/community/#centos-rhel
     gpgcheck=1
     priority=2
 
-    Next step is installing Lynis with yum.
+Next step is installing Lynis with yum.
 
     sudo yum makecache fast
 
-
     sudo yum install lynis
 
-
-    First time it might ask to import the GPG key. This ensures you only updates are received from us.
-
-    Now you start using Lynis. First time users are advised to use the Get Started guide.
+First time it might ask to import the GPG key. This ensures you only updates are received from us.
+Now you start using Lynis. First time users are advised to use the Get Started guide.
 
     lynis audit system
 
+ 
+Relatorio fica em Files:
+  - Test and debug information      : /var/log/lynis.log
+  - Report data                     : /var/log/lynis-report.dat
 
 
 ## 5.  chkrootkit
